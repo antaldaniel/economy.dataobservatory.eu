@@ -52,9 +52,7 @@ Big data and automation create new inequalities and injustices and has a potenti
 
 Our observatory is monitoring the European economy to protect the consumers and the small companies from unfair competition both from data and knowledge monopolization and robotization. We take a critical SME-, intellectual property policy and competition policy point of view automation, robotization, and the AI revolution on the service-oriented European social market economy.
 
-We would like to create early-warning, risk, economic effect, and impact indicators that can be used in scientific, business and policy contexts for professionals who are working on re-setting the European economy after a devastating pandemic and in the age of AI. We are particularly interested in designing indicators that can be early warnings for killer acquisitions, algorithmic and offline discrimination against consumers based on nationality or place of residence, signs of undermining key economic and competition policy goals, and generally help small and medium-sized enterprises and start-ups to grow, and the financial sector to provide loanable and equity funds for their growth. 
-
-Our data observatory is competing in the [EU Datathon 2021](https://op.europa.eu/en/web/eudatathon). We believe that introducing Open Policy Analysis standards with open data, open-source software and research automation can help the [economy that works for people](https://ec.europa.eu/info/strategy/priorities-2019-2024/economy-works-people_en#:~:text=Individuals%20and%20businesses%20in%20the,needs%20of%20the%20EU's%20citizens.), particulartly the challenge we are focusing on the [Single market strategy](https://ec.europa.eu/info/strategy/priorities-2019-2024/economy-works-people/internal-market_en). Our [collaboration is open](/#contributors) for individuals, citizens scientists, research institutes, NGOS, companies.
+We would like to create early-warning, risk, economic effect, and impact indicators that can be used in scientific, business and policy contexts for professionals who are working on re-setting the European economy after a devastating pandemic and in the age of AI. 
 
 {{< icon name="hand-point-right" pack="fas" >}} Get involved in {{< staticref  "/#services" "newtab"  >}}services{{< /staticref >}}: our [ongoing projects](/#projects), team of [contributors](/#contributors), [open-source libraries](/#software) and use our data for publications. See some [use cases](/#featured).
 
@@ -62,3 +60,7 @@ Our data observatory is competing in the [EU Datathon 2021](https://op.europa.eu
 
 
 {{< icon name="phone" pack="fas" >}} Contact {{< staticref "/#contact" "newtab" >}}us{{< /staticref >}} .
+
+Our data observatory is competing in the [EU Datathon 2021](https://op.europa.eu/en/web/eudatathon). We believe that introducing Open Policy Analysis standards with open data, open-source software and research automation can help the [economy that works for people](https://ec.europa.eu/info/strategy/priorities-2019-2024/economy-works-people_en#:~:text=Individuals%20and%20businesses%20in%20the,needs%20of%20the%20EU's%20citizens.), particulartly the challenge we are focusing on the [Single market strategy](https://ec.europa.eu/info/strategy/priorities-2019-2024/economy-works-people/internal-market_en). Our [collaboration is open](/#contributors) for individuals, citizens scientists, research institutes, NGOS, companies.
+
+
