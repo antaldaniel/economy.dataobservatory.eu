@@ -54,7 +54,7 @@ Our observatory is monitoring the European economy to protect the consumers and 
 
 We would like to create early-warning, risk, economic effect, and impact indicators that can be used in scientific, business and policy contexts for professionals who are working on re-setting the European economy after a devastating pandemic and in the age of AI. 
 
-{{< icon name="hand-point-right" pack="fas" >}} Get involved in {{< staticref  "/#services" "newtab"  >}}services{{< /staticref >}}: our [ongoing projects](/#projects), team of [contributors](/#contributors), [open-source libraries](/#software) and use our data for publications. See some [use cases](/#featured).
+{{< icon name="hand-point-right" pack="fas" >}}Get involved in {{< staticref  "/#services" "newtab"  >}}services{{< /staticref >}}: our [ongoing projects](/#projects), team of [contributors](/#contributors), [open-source libraries](/#software) and use our data for publications. See some [use cases](/#featured).
 
 {{< icon name="rss" pack="fas" >}} Follow {{< staticref "/#news" "newtab" >}}news about us{{< /staticref >}} or the more comprehensive {{< staticref "https://dataandlyrics.com/" "newtab" >}}Data & Lyrics{{< /staticref >}}  blog.
 
