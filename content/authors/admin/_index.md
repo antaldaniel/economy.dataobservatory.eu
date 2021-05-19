@@ -62,5 +62,3 @@ We would like to create early-warning, risk, economic effect, and impact indicat
 {{< icon name="phone" pack="fas" >}}Contact {{< staticref "/#contact" "newtab" >}}us{{< /staticref >}} .
 
 Our data observatory is competing in the [EU Datathon 2021](https://op.europa.eu/en/web/eudatathon). We believe that introducing Open Policy Analysis standards with open data, open-source software and research automation can help the [economy that works for people](https://ec.europa.eu/info/strategy/priorities-2019-2024/economy-works-people_en#:~:text=Individuals%20and%20businesses%20in%20the,needs%20of%20the%20EU's%20citizens.), particulartly the challenge we are focusing on the [Single market strategy](https://ec.europa.eu/info/strategy/priorities-2019-2024/economy-works-people/internal-market_en). Our [collaboration is open](/#contributors) for individuals, citizens scientists, research institutes, NGOS, companies.
-
-
