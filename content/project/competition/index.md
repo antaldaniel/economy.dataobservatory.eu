@@ -11,7 +11,7 @@ date: "2021-05-16T00:00:00Z"
 external_link: ""
 
 image:
-  caption: [Matt Ridley](https://unsplash.com/photos/mMgHe5h0_U4)
+  caption: "[Matt Ridley](https://unsplash.com/photos/mMgHe5h0_U4)"
   focal_point: Smart
 
 links:
