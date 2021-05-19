@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Future Economy Data Observatory
+title: Economy Data Observatory
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Automated data observatory
+role: Automated Data Observatory
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://reprex.nl/
   
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: A fully automated, open source, open data observatory that produces new indicators from open data sources and experimental big data sources, with authoritative copies and a modern API.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -52,7 +52,7 @@ Big data and automation create new inequalities and injustices and has a potenti
 
 Our observatory is monitoring the European economy to protect the consumers and the small companies from unfair competition both from data and knowledge monopolization and robotization. We take a critical SME-, intellectual property policy and competition policy point of view automation, robotization, and the AI revolution on the service-oriented European social market economy.
 
-We would like to create early-warning, risk, economic effect, and impact indicators that can be used in scientific, business and policy contexts for professionals who are working on re-setting the European economy after a devastating pandemic and in the age of AI. 
+We would like to create early-warning, risk, economic effect, and impact indicators that can be used in scientific, business and policy contexts for professionals who are working on re-setting the European economy after a devastating pandemic and in the age of AI. We would like to map data between economic activities (NACE), antitrust markets, and sub-national, regional, metropolitian area data.
 
 {{< icon name="hand-point-right" pack="fas" >}}Get involved in {{< staticref  "/#services" "newtab"  >}}services{{< /staticref >}}: our [ongoing projects](/#projects), team of [contributors](/#contributors), [open-source libraries](/#software) and use our data for publications. See some [use cases](/#featured).
 
