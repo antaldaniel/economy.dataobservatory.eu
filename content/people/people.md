@@ -18,7 +18,7 @@ content:
 user_groups:
   - developers
   - data curators
-  - project contributors
+  - service developers
 design:
   show_interests: false
   show_role: true
