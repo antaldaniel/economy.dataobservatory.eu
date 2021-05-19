@@ -11,12 +11,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Music Economy & Innovation data curator
+role: Competition and innovation data curator
 
 # Organizations/Affiliations
 organizations:
 - name: University of East Anglia
-  url: "https://soza.sk/"
+  url: "https://people.uea.ac.uk/p_ormosi"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a competition economist and legal scholar with an interest in the music economy.
@@ -76,4 +76,4 @@ user_groups:
 - data curators
 ---
 
-Peter is a competition economist and legal scholar, and an expert on innovation with an interest in the music industry, particularly streaming.  He is curating data sets for our observatory particularly in the Diversity & Circulation and the Innovation pillars, which may help detecting biases against small organizations, small country repertoires, or vulnerable artist groups in the global competition.
+Peter is a competition economist and legal scholar, and an expert on innovation with an interest in the music industry, particularly streaming.  He is curating data sets for our observatory that are building bridges between patent and intellectual property information, connect antitrust and economic activity (NACE markets), and generally help understanding how big data and AI is shaping competition and market concentration in the European economy.
