@@ -58,7 +58,6 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - service development team
-- data curators
 ---
 
 Suzan is a security consultant working on digitalisation, good governance and related data strategies in the European Union. She is a data enthusiast and advocates for more accountability and responsibility of open data usage in public administration.  
