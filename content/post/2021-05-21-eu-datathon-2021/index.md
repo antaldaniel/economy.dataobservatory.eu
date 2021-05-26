@@ -1,6 +1,6 @@
 +++
-title = "Reprex is Contesting all Three Challenges of the Eu Datathon 2021 Prize"
-subtitle = "Reprex, rOpenGov, curators, consultants and developers in open collaboration to build automated data observatories"
+title = "The Economy Data Observatory is Contesting the EU Datathon 2021 Prize"
+subtitle = "Reprex and Open Collaboration Partners are Contesting all Three Challenges of the Eu Datathon 2021 Prize"
 date = 2021-05-21T20:00:00
 lastmod = 2021-05-26T15:00:00
 draft = false
@@ -56,19 +56,7 @@ We want to win an [EU Datathon prize](https://op.europa.eu/en/web/eudatathon) by
 
 We aim to win at least one first prize in the EU Datathon 2021. We are contesting **all three** challenges, which are related to the EU’s official strategic policies for the coming decade.
 
-## Challenge 1: A European Grean Deel
-
-{{< figure src="/media/img/observatory_screenshots/GD_Observatory_opening_page.png" caption="Our Green Deal Data Observatory connects socio-economic and environmental data to help understanding and combating climate change." numbered="true" >}}
-
-Challenge 1: [A European Green Deal](https://ec.europa.eu/info/strategy/priorities-2019-2024/european-green-deal_en), with a particular focus on the [The European Climate Pact](https://ec.europa.eu/commission/presscorner/detail/en/ip_20_2323), the [Organic Action Plan](https://ec.europa.eu/info/food-farming-fisheries/farming/organic-farming/organic-action-plan_en), and the [New European Bauhaus](https://ec.europa.eu/commission/presscorner/detail/en/IP_21_111), i.e., mitigation strategies.
-
-Climate change and environmental degradation are an existential threat to Europe and the world. To overcome these challenges, the European Union created the European Green Deal strategic plan, which aims to make the EU’s economy sustainable by turning climate and environmental challenges into opportunities and making the transition just and inclusive for all.
-
-Our [Green Deal Data Observatory](http://greendeal.dataobservatory.eu/) is a modern reimagination of existing ‘data observatories’; currently, there are over 70 permanent international data collection and dissemination points. One of our objectives is to understand why the dozens of the EU’s observatories do not use open data and reproducible research. We want to show that open governmental data, open science, and reproducible research can lead to a higher quality and faster data ecosystem that fosters growth for policy, business, and academic data users.
-
-We provide high quality, tidy data through a modern API which enables data flows between public and proprietary databases. We believe that introducing Open Policy Analysis standards with open data, open-source software, and research automation, can help the Green Deal policymaking process. Our collaboration is open for individuals, citizens scientists, research institutes, NGOS, and companies.
-
-## Challenge 2: A Europe fit for the digital age
+## Challenge 2: An economy that works for people
 
 {{< figure src="/media/img/observatory_screenshots/edo_opening_page.jpg" caption="Our Economy Data Observatory will focus on competition, small and medium sized enterprizes and robotization." numbered="true" >}}
 
@@ -80,17 +68,12 @@ Our observatory monitors the European economy to protect consumers and small com
 
 We would like to create early-warning, risk, economic effect, and impact indicators that can be used in scientific, business, and policy contexts for professionals who are working on re-setting the European economy after a devastating pandemic in the age of AI. We are particularly interested in designing indicators that can be early warnings for killer acquisitions, algorithmic and offline discrimination against consumers based on nationality or place of residence, and signs of undermining key economic and competition policy goals. Our goal is to help small and medium-sized enterprises and start-ups to grow, and to furnish data that encourages the financial sector to provide loans and equity funds for their growth.
 
-## Challenge 3: A Europe fit for the digital age
 
-{{< figure src="/media/img/observatory_screenshots/dmo_opening_screen.png" caption="Our Digital Music Observatory is not only a demo of the European Music Observatory, but a testing ground for data governance, Digital Servcies Act, and trustworthy AI problems." numbered="true" >}}
+## Other Challenges
 
-Challenge 3: [A Europe fit for the digital age](https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age_en), with a particular focus [Artificial Intelligence](https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/excellence-trust-artificial-intelligence_en), the [European Data Strategy](https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/european-data-strategy_en), the [Digital Services Act](https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/digital-services-act-ensuring-safe-and-accountable-online-environment_en), [Digital Skills](https://digital-strategy.ec.europa.eu/en/policies/digital-skills-and-jobs) and [Connectivity](https://digital-strategy.ec.europa.eu/en/policies/connectivity).
+- Challenge 1: [A European Green Deal](https://ec.europa.eu/info/strategy/priorities-2019-2024/european-green-deal_en), with a particular focus on the [The European Climate Pact](https://ec.europa.eu/commission/presscorner/detail/en/ip_20_2323), the [Organic Action Plan](https://ec.europa.eu/info/food-farming-fisheries/farming/organic-farming/organic-action-plan_en), and the [New European Bauhaus](https://ec.europa.eu/commission/presscorner/detail/en/IP_21_111), i.e., mitigation strategies. Our [Green Deal Data Observatory](http://greendeal.dataobservatory.eu/) is a modern reimagination of existing ‘data observatories’; currently, there are over 70 permanent international data collection and dissemination points. One of our objectives is to understand why the dozens of the EU’s observatories do not use open data and reproducible research. We want to show that open governmental data, open science, and reproducible research can lead to a higher quality and faster data ecosystem that fosters growth for policy, business, and academic data users.
 
-The [Digital Music Observatory](https://music.dataobservatory.eu/) (DMO) is a fully automated, open source, open data observatory that creates public datasets to provide a comprehensive view of the European music industry. It provides high-quality and timely indicators in all four pillars of the planned official European Music Observatory as a modern, open source and largely open data-based, automated, API-supported alternative solution for this planned observatory. The insight and methodologies we are refining in the DMO are applicable and transferable to about 60 other data observatories funded by the EU which do not currently employ governmental or scientific open data.
-
-Music is one of the most data-driven service industries where most sales are currently executed by AI-driven autonomous systems that influence market shares and intellectual property remuneration. We provide a template that enables making these AI-driven systems accountable and trustworthy, with the goal of re-balancing the legitimate interests of creators, distributors, and consumers. Within Europe, this new balance will be an important use case of the European Data Strategy and the Digital Services Act.
-
-The DMO is a fully functional service that can serve as a testing ground of the European Data Strategy. It can showcase the ways in which the music industry is affected by the problems that the Digital Services Act and European Trustworthy AI initiatives attempt to regulate. It is being built in open collaboration with national music stakeholders, NGOs, academic institutions, and industry groups.
+- Challenge 3: [A Europe fit for the digital age](https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age_en), with a particular focus [Artificial Intelligence](https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/excellence-trust-artificial-intelligence_en), the [European Data Strategy](https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/european-data-strategy_en), the [Digital Services Act](https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/digital-services-act-ensuring-safe-and-accountable-online-environment_en), [Digital Skills](https://digital-strategy.ec.europa.eu/en/policies/digital-skills-and-jobs) and [Connectivity](https://digital-strategy.ec.europa.eu/en/policies/connectivity). The [Digital Music Observatory](https://music.dataobservatory.eu/) (DMO) is a fully automated, open source, open data observatory that creates public datasets to provide a comprehensive view of the European music industry. It provides high-quality and timely indicators in all four pillars of the planned official European Music Observatory as a modern, open source and largely open data-based, automated, API-supported alternative solution for this planned observatory. The insight and methodologies we are refining in the DMO are applicable and transferable to about 60 other data observatories funded by the EU which do not currently employ governmental or scientific open data.
 
 Our Product/Market Fit was validated in the world’s 2nd ranked university-backed incubator program, the [Yes!Delft AI Validation Lab](https://music.dataobservatory.eu/post/2020-09-25-yesdelft-validation/). We are currently developing this project with the help of the [JUMP European Music Market Accelerator](https://www.jumpmusic.eu/fellow2021/automated-music-observatory/) program.
 
