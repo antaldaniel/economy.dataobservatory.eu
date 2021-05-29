@@ -14,6 +14,8 @@ organizations:
   url: https://reprex.nl/
 - name: rOpenGov
   url: http://ropengov.org/
+- name: Yes!Delft AI+Blockchain Validation Lab
+  url: https://www.yesdelft.com/focus-areas/artificial-intelligence/
   
 # Short bio (displayed in user profile at end of posts)
 bio: A fully automated, open source, open data observatory that produces new indicators from open data sources and experimental big data sources, with authoritative copies and a modern API.
