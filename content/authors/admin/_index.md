@@ -12,6 +12,8 @@ role: Automated Data Observatory
 organizations:
 - name: Reprex
   url: https://reprex.nl/
+- name: rOpenGov
+  url: http://ropengov.org/
   
 # Short bio (displayed in user profile at end of posts)
 bio: A fully automated, open source, open data observatory that produces new indicators from open data sources and experimental big data sources, with authoritative copies and a modern API.
@@ -60,6 +62,8 @@ We would like to create early-warning, risk, economic effect, and impact indicat
 
 {{< icon name="phone" pack="fas" >}}Contact {{< staticref "/#contact" "newtab" >}}us{{< /staticref >}} .
 
-Our automated observatory participates in the [EU Datathon 2021](https://op.europa.eu/en/web/eudatathon) challenge #3. {{< icon name="download" pack="fas" >}} Download our {{< staticref "media/presentations/EDO_Datathon_Submission_2021.pdf" "newtab" >}}submission presentation{{< /staticref >}}. We believe that introducing Open Policy Analysis standards with open data, open-source software and research automation can help the [economy that works for people](https://ec.europa.eu/info/strategy/priorities-2019-2024/economy-works-people_en#:~:text=Individuals%20and%20businesses%20in%20the,needs%20of%20the%20EU's%20citizens.), particularly the challenge we are focusing on the [Single market strategy](https://ec.europa.eu/info/strategy/priorities-2019-2024/economy-works-people/internal-market_en). Our [collaboration is open](/#contributors) for individuals, citizens scientists, research institutes, NGOS, companies.
+Our automated observatory participates in the [EU Datathon 2021](https://op.europa.eu/en/web/eudatathon) challenge #3. {{< icon name="download" pack="fas" >}}. We believe that introducing Open Policy Analysis standards with open data, open-source software and research automation can help the [economy that works for people](https://ec.europa.eu/info/strategy/priorities-2019-2024/economy-works-people_en#:~:text=Individuals%20and%20businesses%20in%20the,needs%20of%20the%20EU's%20citizens.), particularly the challenge we are focusing on the [Single market strategy](https://ec.europa.eu/info/strategy/priorities-2019-2024/economy-works-people/internal-market_en). Our [collaboration is open](/#contributors) for individuals, citizens scientists, research institutes, NGOS, companies.
+
+Download our {{< staticref "/media/presentations/EDO_Datathon_Submission_2021.pdf" "newtab" >}}competition presentation{{< /staticref >}}
 
 Our Product/Market Fit was validated in the world's 2nd ranked university-backed incubator program, the [Yes!Delft AI Validation Lab](post/2020-09-25-yesdelft-validation/).
