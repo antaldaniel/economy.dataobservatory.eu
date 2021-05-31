@@ -28,6 +28,9 @@ main:
   - name: Talks
     url: '#talks'
     weight: 70
+  - name: Data API
+    url: 'http://api.economy.dataobservatory.eu'
+    weight: 75
   - name: Contact
     url: '#contact'
     weight: 80
