@@ -55,7 +55,6 @@ The figure below shows our raw data (18 years of petrol station level daily pric
 
 {{< figure src="/media/img/blogposts_2021/retail_margins.png" caption="Surprising findings: market concentration and margin changes for petrol stations." numbered="true" >}}
  
-
 **Do you have a good example of really good, or really bad use of data science /data curation?**
 
 Out of professional courtesy I really wouldn’t like to mention names from academic research as examples of bad use of data. But there are ample examples from newspaper coverage of data related work, or simply the misuse of data by newspapers. This may be intentional but is often a result of journalists not having the necessary training in using and analysing data.
@@ -74,5 +73,5 @@ The things I mentioned above about the democratisation of research driven by aut
 I think starting with a focused agenda is a good idea. For example, linking up with the Centre for Competition Policy means that we have an initial focus of competition policy relevant economic data. This is still a large domain, but it is one where we have ample expertise. Starting with specific research questions such as linking competition enforcement and merger decisions to related information on innovation and ownership data puts the Economy Data Observatory at the heart of some of the most topical policy questions, such as the role of killer acquisitions (acquisitions with the intent to kill of sources of rival innovation), or common ownership, both of which are increasingly discussed in policy and practitioner circles. Once we established ourselves as a credible source of data in the competition policy community, we can look into joining this up with other policy areas, and also with our other Data Observatories (Music and Sustainability).
 
 
-
+*Join our open collaboration team as a [data curator](/authors/curator), [developer](/authors/developer) or [business developer](/authors/team).*
 
