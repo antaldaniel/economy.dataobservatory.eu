@@ -23,7 +23,7 @@ projects = ["eu-datathon_2021"]
   focal_point = "Center"
 
   # Show image only in page previews?
-  preview_only = true
+  preview_only = false
 
 +++
 
@@ -42,6 +42,8 @@ I believe that there is an immensely rich, and largely unexplored source of info
 **What is an idea that you consider will be a game changer for researchers and/or policymakers?**
 
 Partly talking in the past tense, the use of data driven approaches, automation in research, and machine learning have been increasingly influential and I think this trend will continue to all areas of social science. 10 years ago, to do machine learning, you had to build your models from scratch, typically requiring a solid understanding of programming and linear algebra. Today, there are readily available deep learning frameworks like TensorFlow, Keras, PyTorch, to design a neural network for your own application. 10 years ago, natural language processing would have only been relevant for a small group of computational linguists. Today we have massive word embedding models trained on an enormous corpus of texts, at the fingertip of any researcher. 10 years ago, the cost of computing power would have made it prohibitive for most researchers to run even relatively shallow neural networks. Today, I can run complex deep learning models on my laptop using cloud computing servers. As a result of these developments, whereas 10 years ago one would have needed a small (or large) research team to explore certain research questions, much of this can now be automated and be done by a single researcher. For researchers without access to large research grants and without the ability to hire a research team, this has truly been an amazing victory for the democratisation of research.
+
+{{< figure src="/media/img/observatory_screenshots/EDO_API_indicator_table.jpg" caption="You can already try out our API." numbered="true" >}}
 
 **Do you have a favorite, or most used open governmental or open science data source? What do you think about it?  Could it be improved?**
 
@@ -62,6 +64,8 @@ Out of professional courtesy I really wouldn’t like to mention names from acad
 When the press finds a piece of academic research interesting, often bad things come out of it. This is often because not all journalists are well equipped to interpret scientific findings. As a result, sometimes conclusions are drawn as a result of a misinterpretation of good data analysis. Correlation interpreted as causation is a frequently recurring example. Equally bad is press coverage changes the incentive system of producing good research, when scientists work too hard for their work to be noticed by the press, and sacrifice scientific rigour in data analysis for the sake of media attention. There can also be less discernible but equally damaging errors. 
 
 In some cases requiring to pre disclose the tests the research is going to run on data helps maintain credibility in many instances. Moreover, I am always a bit suspicious if the authors do not give access to their data for reproduction.
+
+{{< figure src="/media/img/observatory_screenshots/edo_and_zenodo.jpg" caption="Our Economy Data Observatory places all new indicators on Zenodo with a DOI, and asks future individual contributors their data for replication there." numbered="true" >}}
 
 **What do you see as the greatest challenge with open data in 2021?**
 
