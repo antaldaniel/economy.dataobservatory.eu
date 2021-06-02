@@ -47,7 +47,7 @@ Partly talking in the past tense, the use of data driven approaches, automation 
 
 As a competition economist, I tend to need very specific data for each research question I’m working on, which has to be collected from scratch. On the other hand, most works do require us to use data that has already been collected and made available. For example, access to census data has been immensely useful in ensuring that we can control for local demographic features, in papers where local competition plays a role. Census data is made readily available by most governments, but I particularly liked the Australian data, partly because they run a census every 5 years, but also because they have made the data available through a great table making tool.
 
-**Is there a number <piece of information as data> that recently surprised you? If so, what was it?**
+**Is there a number that recently surprised you? What was it?**
 
 I have these moments of surprise fairly frequently. To give one example from something I'm currently working on, looking at the distributional impact of increasing market concentration, we’ve found that low income households experience a larger increase in the petrol retail margin when market concentration increases than high income households. This fits nicely with theoretical works on search in homogeneous costs, i.e. low income households are less good at engaging with the market, and, as a result, if suppliers can price discriminate, they will charge a higher margin to these households. 
 
@@ -62,7 +62,6 @@ Out of professional courtesy I really wouldn’t like to mention names from acad
 When the press finds a piece of academic research interesting, often bad things come out of it. This is often because not all journalists are well equipped to interpret scientific findings. As a result, sometimes conclusions are drawn as a result of a misinterpretation of good data analysis. Correlation interpreted as causation is a frequently recurring example. Equally bad is press coverage changes the incentive system of producing good research, when scientists work too hard for their work to be noticed by the press, and sacrifice scientific rigour in data analysis for the sake of media attention. There can also be less discernible but equally damaging errors. 
 
 In some cases requiring to pre disclose the tests the research is going to run on data helps maintain credibility in many instances. Moreover, I am always a bit suspicious if the authors do not give access to their data for reproduction.
-
 
 **What do you see as the greatest challenge with open data in 2021?**
 
