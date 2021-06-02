@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Contributors of the Economy Data Observaotry"
+title = "Contributors of the Economy Data Observatory"
 subtitle = "Join our open collaboration team as a [data curator](/authors/curator), [developer](/authors/developer) or [business developer](/authors/team)."
 
 [content]
