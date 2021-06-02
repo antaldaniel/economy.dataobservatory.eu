@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-title: Contributors
+title: Contributors of the Economy Data Observatory
 subtitle:
 
 content:
@@ -19,6 +19,8 @@ user_groups:
   - developers
   - data curators
   - service development team
+  - join us
+  
 design:
   show_interests: false
   show_role: true
