@@ -39,3 +39,5 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
+
+Check out our more general [Data & Lyrics](https://dataandlyrics.com/) blog.
