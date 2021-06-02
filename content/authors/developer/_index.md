@@ -5,7 +5,7 @@ name: New Developers
 
 # Username (this should match the folder name)
 authors:
-  - volunteer
+  - developer
 
 # Is this the primary user of the site?
 superuser: false
@@ -49,7 +49,7 @@ social:
   link: https://keybase.io/team/reprexcommunity
 - icon: twitter
   icon_pack: fab
-  link:https://twitter.com/EconDataObs
+  link: https://twitter.com/EconDataObs
 - icon: github
   icon_pack: fab
   link: https://github.com/dataobservatory-eu
