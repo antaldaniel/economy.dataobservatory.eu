@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Data Scientist & Ethnomusicologist
+role: Data Scientist
 
 # Organizations/Affiliations
 organizations:
@@ -49,7 +49,9 @@ social:
 - icon: keybase
   icon_pack: fab
   link: https://keybase.io/ajgmolina
-
+- icon: github
+  icon_pack: fab
+  link: https://github.com/ajgmolina
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
