@@ -41,7 +41,7 @@ Available datasets use standard industry classification (such as NACE in the EU)
 
 I believe that there is an immensely rich, and largely unexplored source of information in unstructured textual data that would be hugely useful for applied microeconomic works, including my own area of IO and competition policy. This includes a large corpus of administrative and court decisions that relate to businesses, such as merger control decisions of the European Commission. To give two examples from my experience, we’ve used a large corpus of news reports related to various firms to gauge the reputational impact of European Commission cartel investigations, or we’ve trained an algorithm to be able to classify US legislative bills and predict whether they have been lobbied or not. Finding a way to collect and convert this unstructured data into a format that is relevant and useful for users is not a trivial challenge, but is one of the most exciting parts of our Economy Data Observatory plans.
 
-{{< figure src="/media/img/blogposts_2021/lobbying_activity_map.png" caption="Finding a way to collect and convert this unstructured data into a format that is relevant and useful for users is not a trivial challenge, but is one of the most exciting parts of our Economy Data Observatory plans." numbered="true" >}}
+{{< figure src="/media/img/blogposts_2021/lobbying_activity.png" caption="Finding a way to collect and convert this unstructured data into a format that is relevant and useful for users is not a trivial challenge, but is one of the most exciting parts of our Economy Data Observatory plans." numbered="true" >}}
 
 **What is an idea that you consider will be a game changer for researchers and/or policymakers?**
 
