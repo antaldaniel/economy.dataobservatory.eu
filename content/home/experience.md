@@ -22,6 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Economy Data Observatory
+    company: Reprex, rOpenGov and collaborators
+    company_url: 'economy.dataobservatory.eu'
+    location: the Hague, Netherlands
+    date_start: '2021-05-15'
+    date_end: ''
+    description: |2- 
+         We launched the Economy Data Observatory to support Computational Antitrust
+         and create new innovation and SME indicators.
   - title: Green Deal Open Collaboration
     company: Reprex and collaborators
     company_url: 'https://reprex.nl/'
@@ -32,7 +41,7 @@ experience:
         International Open Data Day 2021:
         
         * We organized the [only event](https://reprex.nl/talk/reprex-open-data-day-2021/) in the Netherlands
-        * Decided to start an open collaboration on [music](https://music.dataobservatory.eu/) and [climate change](https://netzero.dataobservatory.eu/).
+        * Decided to start an open collaboration on [music](https://music.dataobservatory.eu/) and climate change.
         
   - title: Trustworthy AI PPP 
     company: NLAIC + EU AI Alliance

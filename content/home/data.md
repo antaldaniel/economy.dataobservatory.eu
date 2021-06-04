@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 28
+weight: 35
 
 title: Data
 subtitle: 'API to our data, our sources, how we process and validate it, how we increase its quality.'
