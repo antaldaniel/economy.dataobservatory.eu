@@ -23,15 +23,17 @@ external_link = ""
 slides = ""
 
 # Links (optional).
-url_pdf = ""
-url_slides = ""
-url_video = ""
-url_code = ""
-
-# Custom links (optional).
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{icon_pack = "fab", icon="play-circle", name="Demo Music Observatory", url = "https://music.dataobservatory.eu/"}]
-
+links:
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/EconDataObs
+- icon: github
+  icon_pack: fab
+  link: https://github.com/dataobservatory-eu
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/company/78562153
+  
 [image]
   # Caption (optional)
   caption = ""

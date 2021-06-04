@@ -16,12 +16,14 @@ image:
 links:
 - icon: twitter
   icon_pack: fab
-  name: Follow
-  url: https://twitter.com/antaldaniel
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+  link: https://twitter.com/EconDataObs
+- icon: github
+  icon_pack: fab
+  link: https://github.com/dataobservatory-eu
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/company/78562153
+  
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
