@@ -27,10 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Make Coal History
-    tag: coal-history
-  - name: Regions & Sub-national Boundaries
-    tag: sub-national
+  - name: Computational Antitrust
+    tag: competition
+  - name: Small & Medium Sized Enterprises
+    tag: SME
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

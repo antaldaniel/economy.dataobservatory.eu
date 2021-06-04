@@ -10,15 +10,12 @@ main:
   - name: Blog
     url: '#posts'
     weight: 20
-  - name: Get Involved
+  - name: Data Coverage
     url: '#projects'
-    weight: 3k0
+    weight: 30
   - name: Contributors
     url: '#contributors'
     weight: 40
-  - name: Use Cases
-    url: '#featured'
-    weight: 50
   - name: Code
     url: '#software'
     weight: 60
