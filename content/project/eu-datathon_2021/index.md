@@ -1,47 +1,36 @@
-+++
+---
 # Project title.
-title = "EU Datathon 2021"
+title: EU Datathon 2021
+
 
 # Date this page was created.
-date = 2021-05-12T18:09:00
+date: "2021-03-16T00:00:00Z"
 
-# Project summary to display on homepage.
-summary = "Reprex, a Dutch start-up enterprise formed to utilize open source software and open data, is looking for partners in an agile, open collaboration to win at least one of the three EU Datathon Prizes."
+summary: Reprex, a Dutch start-up enterprise formed to utilize open source software and open data, is looking for partners in an agile, open collaboration to win at least one of the three EU Datathon Prizes.
 
 # Tags: can be used for filtering projects.
-tags = ["ceemid", "surveys", "data-observatory", "music-observatory", "reproducible-research", "green-deal", "digital-decade", "digital-age", "economy-data-observatory"]
+tags: 
+- data-observatory
+- reproducible-research
+- open-data
+- open government
+- open science
 
-# Optional external URL for project (replaces project detail page).
-external_link = ""
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references
-#   `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides = ""
-
-# Links (optional).
 links:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/EconDataObs
-- icon: github
-  icon_pack: fab
-  link: https://github.com/dataobservatory-eu
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/company/78562153
-  
-[image]
-  # Caption (optional)
-  caption = ""
+- icon: github
+  icon_pack: fab
+  link: https://github.com/dataobservatory-eu
 
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Smart"
-+++
+image:
+  caption: ""  
+  focal_point: Smart
+---
 
 Reprex, a Dutch start-up enterprise formed to utilize open source software and open data, is looking for partners in an agile, open collaboration to win at least one of the three EU Datathon Prizes. We are looking for policy partners, academic partners and a consultancy partner. Our project is based on agile, open collaboration with three types of contributors.
 
