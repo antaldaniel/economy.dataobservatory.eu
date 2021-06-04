@@ -86,6 +86,8 @@ user_groups:
 
 - Make sure that you read the [Contributors Covenant](https://www.contributor-covenant.org/). You must make this [pledge](https://www.contributor-covenant.org/version/2/0/code_of_conduct/) to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation. Participating in our data observatories requires everybody to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community. It's better this way for you and for us!
 
-- Give users at least one social media account where they can get in touch with you (any of LinkedIn, Twitter, Academia, SSRN, Google Scholar, or even Facebook.)
+- Send us {{< icon name="download" pack="fas" >}} {{< staticref "media/documents/bio_template.md" "newtab" >}}this text file{{< /staticref >}} with your biography elements. Best if you fill it out with Notepad, TextEdit, Vim or other clean text editor, but you can also send it back as an rtf file.
 
 - If you feel you need chatting on onboarding, contact us on [Keybase](https://curators.dataobservatory.eu/tools.html#keybase) - it's lightweight, discrete, encrypted, your mother, partner and friends are not there, it is free, open source, and can share/exchange files, too. Otherwise in email.
+
+More about contributing: [Automated Observatory Contributors’ Handbook](http://contributors.dataobservatory.eu/).

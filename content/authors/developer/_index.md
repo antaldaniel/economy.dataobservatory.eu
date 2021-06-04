@@ -94,6 +94,8 @@ You should have at least one of the following capabilities:
 
 - Make sure that you have a [Zenodo account](https://zenodo.org/) which is connected to your [ORCiD ID](https://orcid.org/).  This enables you to publish data under your name. If you curate data for our observatories, you will be the indicator's first author, and depending on what processes help you, the author of the (scientific) code that helps you calculate the values will be your co-author.
 
-- Give users at least one social media account where they can get in touch with you (any of LinkedIn, Twitter, Academia, SSRN, Google Scholar, or even Facebook.)
+- Send us {{< icon name="download" pack="fas" >}} {{< staticref "media/documents/bio_template.md" "newtab" >}}this text file{{< /staticref >}} with your biography elements. Best if you fill it out with Notepad, TextEdit, Vim or other clean text editor, but you can also send it back as an rtf file.
 
 - If you feel you need chatting on onboarding, contact us on [Keybase](https://curators.dataobservatory.eu/tools.html#keybase) - it's lightweight, discrete, encrypted, your mother, partner and friends are not there, it is free, open source, and can share/exchange files, too. Otherwise in email.
+
+More about contributing: [Automated Observatory Contributors’ Handbook](http://contributors.dataobservatory.eu/).
