@@ -1,5 +1,5 @@
 +++
-title = "We Need More Reliable Datasets on the Urban Heat Resilience and Disaster Risk Reduction"
+title = "Our Datasets Should be Retrieved Cleaned and Assessed in Order to Deliver Efficient Relevant and Credible Information"
 subtitle = "Introducing Our Service Development Team"
 date = 2021-06-07T20:00:00
 lastmod = 2021-06-07T20:00:00
@@ -9,7 +9,7 @@ authors = ["suzan_sidal"]
 
 tags = ["open-data", "open-science", "reproducible research", "business case", "urban heat", "climate change mitigation"]
 
-summary = "I would like to see more data on the consequences and impact of increasing drought and urban heat in our cities in the Green Deal Data Observatory. Because of the complexity of rapidly developing metropolitan regions and the uncertainty associated with climate change, we need to explore more climate change adaptation and mitigation activities, or disaster risk reduction, not only climate change itself."
+summary = "Facilitating private-public partnerships is one step to encourage the data community to work with valuable open data. However, transparency and a high level quality assurance step must be given. In a joint collaboration with data curators, developers, technical specialists and academics, the datasets should be retrieved, cleaned and assessed in order to deliver efficient, relevant and credible information. The constant monitoring and regulation as well as compliance with data security guidelines are indispensable."
 
 projects = ["eu-datathon_2021"]
 
