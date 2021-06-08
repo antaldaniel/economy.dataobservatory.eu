@@ -8,15 +8,15 @@ authors:
   - karel_volckaert
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Contributor, geographical policy use cases 
+role: Economic policy data curator 
 
 # Organizations/Affiliations
 organizations:
   - name: riverrun
-    url: "https://milosp.info/"
+    url: "http://riverrun.be/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests encompass quantitative social science, political analysis and data visualization.
@@ -42,19 +42,11 @@ social:
     link: "#contact" # For a direct email link, use "mailto:test@example.org".
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/milos_agathon
-  - icon: orcid
-    icon_pack: ai
-    link: https://orcid.org/0000-0002-8392-6866
-  #- icon: ssrn
-  #icon_pack: ai
-  #link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2472686
-  - icon: github
+    link: https://twitter.com/karelvolckaert
+  - icon: linkedin
     icon_pack: fab
-    link: https://github.com/milos-agathon
-  #- icon: keybase
-  #icon_pack: fab
-  #link: https://keybase.io/antaldaniel
+    link: https://www.linkedin.com/in/karelvolckaert/
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,4 +62,4 @@ user_groups:
   - data curators
 ---
 
-Karel Volckaert is a civil engineer, financial expert and consultant. He is contributing with policy use cases and policy analysis based on our maps and datasets.
+Karel Volckaert is a civil engineer, financial expert and consultant. He is contributing with policy use cases and policy analysis based on our maps and datasets. Read Karel's introdcution, *Credibility is Enhanced Through Cross Links Between Different Data from Different Domains*, [here](/post/2021-06-08-data-curator-karel-volckaert/).

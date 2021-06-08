@@ -46,11 +46,6 @@ As my answer to the previous question suggests, my main concern is the developme
 ## Read More on Data & Lyrics
 
 - [Recommendation Systems: What can Go Wrong with the Algorithm?](https://dataandlyrics.com/post/2021-05-16-recommendation-outcomes/)
-- [Upgrading the Slovak Music Database: New Data API, New Features](https://dataandlyrics.com/post/2021-04-27-smdb/)
-- [Working With Localities and Location Tags](https://dataandlyrics.com/post/2021-04-14-bandcamp-librarian-2/)
-- [Feasibility Study On Promoting Slovak Music In Slovakia & Abroad](https://dataandlyrics.com/post/2021-03-25-listen-slovak/)
-- [Listen Local: Why We Need Alternative Recommendation Systems](https://dataandlyrics.com/post/2020-12-15-alternative-recommendations/)
-- [The Racist Music Algorithm](https://dataandlyrics.com/post/2020-10-30-racist-algorithm/)
 
 ## Join us
 
