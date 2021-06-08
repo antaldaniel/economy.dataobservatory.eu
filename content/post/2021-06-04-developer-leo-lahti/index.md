@@ -7,7 +7,7 @@ draft = false
 
 authors = ["leo_lahti"]
 
-tags = ["open-data", "open-science", "reproducible research", "open government"]
+tags = ["open-data", "open-science", "reproducible research", "open government", "R"]
 
 summary = "Although there are a variety of open data sources available (and the numbers continue to increase), the availability of open algorithmic tools to interpret and communicate open data efficiently is lagging behind. One of the greatest challenges for open data in 2021 is to demonstrate how we can maximize the potential of open data by designing smart tools for open data analytics."
 
@@ -65,4 +65,4 @@ The extent of open data space is such that no single individual or institution c
 
 ## Join us
 
-*Join our open collaboration Green Deal Data Observatory team as a [data curator](/authors/curator), [developer](/authors/developer) or [business developer](/authors/team). More interested in antitrust, innovation policy or economic impact analysis? Try our [Economy Data Observatory](https://economy.dataobservatory.eu/#contributors) team! Or your interest lies more in data governance, trustworthy AI and other digital market problems? Check out our [Digital Music Observatory](https://music.dataobservatory.eu/#contributors) team!*
+*Join our open collaboration Economy Data Observatory team as a [data curator](/authors/curator), [developer](/authors/developer) or [business developer](/authors/team). More interested in environmental impact analysis? Try our [Green Deal Data Observatory](https://greendeal.dataobservatory.eu/#contributors) team! Or your interest lies more in data governance, trustworthy AI and other digital market problems? Check out our [Digital Music Observatory](https://music.dataobservatory.eu/#contributors) team!*
