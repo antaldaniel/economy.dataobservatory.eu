@@ -27,8 +27,6 @@ projects = ["eu-datathon_2021"]
 
 +++
 
-
-
 **As a consultant, what type of data do you usually use in your work at ECORYS?**
 
 We work with a great variety of data -- both from qualitative and quantitative sources -- that we retrieve from publicly available sources or get through our clients. Since we are a public policy consultancy, most of the datasets are related to government reports, policies, statistics or surveys that we analyse and assess within a specific timeframe. Oftentimes, we gather open data like non-textual or numeric, such as maps and satellite images; so-called "raw data," like weather, geospatial and environmental data; or data such as that generated in research like genomes, medical data, mathematical and scientific formulas.

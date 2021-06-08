@@ -76,4 +76,4 @@ user_groups:
 - data curators
 ---
 
-Peter is a competition economist and legal scholar, and an expert on innovation with an interest in the music industry, particularly streaming.  He is curating data sets for our observatory that are building bridges between patent and intellectual property information, connect antitrust and economic activity (NACE markets), and generally help understanding how big data and AI is shaping competition and market concentration in the European economy.
+Peter is a competition economist and legal scholar, and an expert on innovation with an interest in the music industry, particularly streaming.  He is curating data sets for our observatory that are building bridges between patent and intellectual property information, connect antitrust and economic activity (NACE markets), and generally help understanding how big data and AI is shaping competition and market concentration in the European economy. Read his introduction [here](https://economy.dataobservatory.eu/post/2021-06-02-data-curator-peter-ormosi/).
