@@ -47,7 +47,7 @@ I decided to participate in this challenge because I love how data is a secret w
 
 This is a little silly but very recently I watched the 101 Dalmatians movie. After watching the movie, I was curious to see if there was a correlation between the release of the movie and the number of Dalmations adopted afterwards. 101 Dalmatians was released in 1985 and 1991 which made thousands of families (in the U.S.) want to adopt one. The [American Kennel Club](https://www.akc.org/) reported that the annual number of Dalmatian puppies registered skyrocketed from 8,170 animals to 42,816.
 
-{{< figure src="/media/img/blogposts_2021/loan-7gG_OG9w4Ds-unsplash.jpg" caption="Photo: John o' Groats, [Unsplash license](https://unsplash.com/license)." numbered="true" >}}
+{{< figure src="/media/img/blogposts_2021/loan-7gG_OG9w4Ds-unsplash.jpg" caption="Photo: John O' Groats, [Unsplash license](https://unsplash.com/license)." numbered="true" >}}
 
 This information is interesting because it validates the idea of how culture influences consumer behavior. I think it’s really cool that we can measure cultural collisions and how it impacts the way we act, think, and respond.
 
