@@ -1,15 +1,16 @@
 # IDEs
 .idea/
 
+# R Session info
+.Rhistory
+.RData
+.Rproj.user
+
 # Hugo
 /resources/
 public/
 jsconfig.json
 node_modules/
-.Rproj.user
-.Rhistory
-.RData
-
 
 # Artefacts
 .DS_Store
