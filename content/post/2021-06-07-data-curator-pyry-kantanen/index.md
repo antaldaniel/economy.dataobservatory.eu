@@ -45,6 +45,7 @@ The challenge has, in my opinion, great potential in leading by example when it 
 
 {{< figure src="/media/img/observatory_screenshots/EDO_API_metadata_table.png" caption="We provide many layers of fully transparent quality control about the data we are placing in our data APIs and provide for our end-users." numbered="true" >}}
 
+
 ## Join us
 
 *Join our open collaboration Economy Data Observatory team as a [data curator](/authors/curator), [developer](/authors/developer) or [business developer](/authors/team). More interested in environmental impact analysis? Try our [Green Deal Data Observatory](https://greendeal.dataobservatory.eu/#contributors) team! Or your interest lies more in data governance, trustworthy AI and other digital market problems? Check out our [Digital Music Observatory](https://music.dataobservatory.eu/#contributors) team!*
