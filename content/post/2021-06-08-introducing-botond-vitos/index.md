@@ -47,6 +47,8 @@ As my answer to the previous question suggests, my main concern is the developme
 
 - [Recommendation Systems: What can Go Wrong with the Algorithm?](https://dataandlyrics.com/post/2021-05-16-recommendation-outcomes/)
 
+{{< figure src="/media/img/observatory_screenshots/edo_and_zenodo.png" caption="Join our open collaboration Economy Data Observatory team as a [data curator](/authors/curator), [developer](/authors/developer) or [business developer](/authors/team), or share your data in our public repository [Economy Data Observatory on Zenodo](https://zenodo.org/communities/economy_observatory/)" numbered="true" >}}
+
 ## Join us
 
 *Join our open collaboration Economy Data Observatory team as a [data curator](/authors/curator), [developer](/authors/developer) or [business developer](/authors/team). More interested in environmental impact analysis? Try our [Green Deal Data Observatory](https://greendeal.dataobservatory.eu/#contributors) team! Or your interest lies more in data governance, trustworthy AI and other digital market problems? Check out our [Digital Music Observatory](https://music.dataobservatory.eu/#contributors) team!*
