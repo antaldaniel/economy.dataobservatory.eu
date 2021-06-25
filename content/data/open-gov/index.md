@@ -32,7 +32,29 @@ url_video: ""
 slides: ""
 ---
 
+Many countries in the world allow access to a vast array of information,
+such as documents under freedom of information requests, statistics,
+datasets. In the European Union, most taxpayer financed data in
+government administration, transport, or meteorology, for example, can
+be usually re-used. More and more scientific output is expected to be
+reviewable and reproducible, which implies open access.
+
 In the EU, open data is governed by the [Directive on open data and the re-use of public sector information - in short: Open Data Directive (EU) 2019 / 1024](https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1561563110433&uri=CELEX:32019L1024). It entered into force on 16 July 2019. It replaces the [Public Sector Information Directive](https://eur-lex.europa.eu/legal-content/en/ALL/?uri=CELEX:32003L0098), also known as the *PSI Directive* which dated from 2003 and was subsequently amended in 2013.
+
+<table>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/photo-1490004047268-5259045aa2b4.jpg" caption="[What’s the Problem with Open Data?](/data/open-gov/#open-data-problems)" numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/photo-1590247813693-5541d1c609fd.jpg" caption="[How We Add Value?](/data/open-gov/#open-data-value-added)" numbered="false" >}}</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/photo-1533580909002-a2f298d005eb.jpg" caption="[Is There Value in It?](/data/open-gov/#open-data-problems)" numbered="false" >}}</br>If it’s money on the street, why nobody’s picking it up?</td>
+<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/photo-1605143185650-77944b152643.jpg" caption="[Datasets Should Work Together to Give Information](/data/open-gov/#open-data-problems)" numbered="false" >}}</br>If it’s money on the street, why nobody’s picking it up?</td>
+</tr>
+</tbody>
+</table>
+
+
 
 ## Is There Value in Open Data?
 

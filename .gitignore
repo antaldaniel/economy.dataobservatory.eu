@@ -5,6 +5,7 @@
 .Rhistory
 .RData
 .Rproj.user
+.Rdata
 
 # Hugo
 /resources/
