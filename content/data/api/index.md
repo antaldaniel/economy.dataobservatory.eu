@@ -16,6 +16,7 @@ authors:
 image:
   caption: 
   focal_point: Smart
+  preview_only: true
 
 links:
 - icon: twitter
@@ -52,15 +53,7 @@ You can get the data in [CSV](http://52.4.54.69/database/indicator.csv?_size=max
 
 ## Description metadata table {#description-table}
 
-The [description table](http://52.4.54.69/database/description) contains the actual values, and the various estimated/imputed values of the indicator, clearly marking missing values, too. 
 
-{{< figure src="/media/img/observatory_screenshots/EDO_API_indicator_table.png" caption="api.economy.dataobservatory.eu: descriptive metadata" numbered="true" >}}
-
-## Labelling table {#labelling-table}
-
-The [labelling table](http://52.4.54.69/database/labelling) contains the way we have handled labels, codes and unit information from the original source. One of the reasons why open data is so hard to use for analysts is the many measurement unit and currencly translations that needs to be made when downloading them from an often not well-documented source. Our API contains data that is ready to be joined with your data, or our other indicators, because these unit and currency translations are made consistently and explicitly.
-
-{{< figure src="/media/img/observatory_screenshots/EDO_API_labelling_table.png" caption="api.economy.dataobservatory.eu: labelling and unit information" numbered="true" >}}
 
 ## Processing Metadata table {#metadata-table}
 
@@ -68,3 +61,7 @@ The [metadata table](http://52.4.54.69/database/metadata) contains various data 
 
 {{< figure src="/media/img/observatory_screenshots/EDO_API_metadata_table.png" caption="api.economy.dataobservatory.eu: processing metadata" numbered="true" >}}
 
+
+## Authoritative Copies 
+
+[Greendeal Data Observatory on Zenodo](https://zenodo.org/communities/greendeal_observatory/)
